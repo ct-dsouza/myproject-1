@@ -1,8 +1,8 @@
 # Text Summarization
 
 
-## Prerequisites
-- Tensorflow
+## prerequisites
+- tensorflow
 - nltk
 - numpy
 - pandas 
