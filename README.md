@@ -1,4 +1,4 @@
-# Text_Summarization_with_Tensorflow
+# Text Summarization
 
 
 ## Prerequisites
