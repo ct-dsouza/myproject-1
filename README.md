@@ -1,8 +1,8 @@
 # myproject-1
 
 Prerequisites
-Tensorflow
-nltk
-numpy
-pandas
-langdetect
+- Tensorflow
+- nltk
+- numpy
+- pandas
+- langdetect
